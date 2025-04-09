@@ -57,7 +57,7 @@
 
 ## Connect with me:
 
-<a href="https://leetcode.com/u/abhiTech_01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhishek" height="30" width="30" /></a>
+<a href="https://leetcode.com/u/stym_29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhishek" height="30" width="30" /></a>
 </p>
 
 ## Socials:
