@@ -39,7 +39,8 @@
 <a href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer">Click
 </a></br>
 🌍  Klimate -> 
-<a href="http://zia-my-virtual-assistance.vercel.app" target="_blank" rel="noreferrer">Click
+<a href="klimate-tau.vercel.app
+" target="_blank" rel="noreferrer">Click
 </a>
 
 
