@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+AbhiTech.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+SyAyLab.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
 </h1>
 <h3 align="center">
     I'm a Fullstack Web Developer 🌐
@@ -20,13 +20,13 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in INDIA.
-* ✉  You can contact me at [abhishekmani1008@gmail.com](mailto:abhishekmani1008@gmail.com)
+* ✉  You can contact me at [satyamchaubey2729@gmail.com](mailto:satyamchaubey2729@gmail.com)
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
 * 🧠  I'm currently learning Artificial Intelligence and Machine Learning. 
 * 🤝  I'm open to collaborating on any interesting projects.
-* ⚡  I'm called AbhiTech.  
+* ⚡  I'm called SyAyLab.  
 
-<a href="https://www.linkedin.com/in/abhishek-singh1024/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/satyam-chaubey-004b82268/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
 </a>
 
@@ -62,14 +62,14 @@
 
 ## Socials:
 
-<a href="https://www.linkedin.com/in/abhishek-singh1024/" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/satyam-chaubey-004b82268/" target="_blank" rel="noreferrer">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/8.png" />
        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jossyboydgenius/Jossyboydgenius/blob/main/Icons/Linkedin.png" />
         <img width="32" height="32" />
     </picture>
 </a>
-<a href="https://github.com/Abhishek-singh-007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+<a href="https://github.com/stym-29" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>  </a>
   
 ## Badges:
@@ -94,8 +94,8 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://github.com/Abhishek-singh-007/Abhishek-singh-007/blob/output/github-contribution-grid-snake.gif"
+    src="https://github.com/stym-29/stym-29/blob/output/github-contribution-grid-snake.gif"
   />
 </picture>
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-singh-007&theme=github-compact)](https://github.com/Abhishek-singh-007/github-readme-activity-graph)
+[![Satyam Chaubey github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stym-29&theme=github-compact)](https://github.com/stym-29/github-readme-activity-graph)
